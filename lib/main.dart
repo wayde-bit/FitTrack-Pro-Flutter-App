@@ -1286,7 +1286,7 @@ class ProfileScreen extends StatelessWidget {
                   ),
                   SizedBox(height: 16),
                   Text(
-                    'John Doe',
+                    'Kiarie Wayde',
                     style: TextStyle(
                       color: Colors.white,
                       fontSize: 24,
